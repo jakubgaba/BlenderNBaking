@@ -1,5 +1,5 @@
 {
-  "name": "threejs-journey-exercise",
+  "name": "threejs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,6 +8,8 @@
     "build": "vite build"
   },
   "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
     "spectorjs": "^0.9.29",
     "vite": "^4.5.0",
     "vite-plugin-glsl": "^1.1.2",
